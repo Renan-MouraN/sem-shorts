@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sem Shorts</string>
+    <string name="service_description">Detecta quando o player de Shorts abre no app do YouTube e volta automaticamente para a tela anterior. Só observa o app do YouTube e não coleta nem envia nenhum dado.</string>
+    <color name="ic_bg">#C62828</color>
+</resources>
